@@ -36,4 +36,4 @@ Enter your password and open the `Appearance Settings` tab.
 
 From here, select the 'Theme' input box and select the Aurora archive. Then hit save and reboot.
 
-## Licensed under the GPL-3 License
+### Licensed under the GPL-3 License
