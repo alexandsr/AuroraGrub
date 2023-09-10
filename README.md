@@ -1,4 +1,4 @@
-# Aurora Grub Bootloader Theme
+# Aurora Grub Bootloader Themes
 Aurora is a set of modern, minimalist Grub bootloader themes in four color variants: Red, Purple, Blue and Green.
 
 ## Installation
